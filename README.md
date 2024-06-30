@@ -8,7 +8,7 @@ Questo progetto è una implementazione del classico gioco del Tris. Due giocator
 
 ## Demo
 
-Puoi vedere una demo del gioco [qui](https://via.placeholder.com/demo).
+Puoi vedere una demo del gioco [qui](https://willowy-muffin-908ea2.netlify.app).
 
 ## Struttura del Progetto
 

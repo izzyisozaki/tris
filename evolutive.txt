@@ -1,0 +1,25 @@
+EVOLUTIVE TRIS
+
+1) Cambia colore tema
+
+2) Statistiche di gioco
+2.1) Tieni traccia delle vittorie dei giocatori
+2.2) Le statistiche persistono alla chiusura del browser (Local storage)
+
+3) Log delle mosse
+3.1) Mostra a video l'elenco delle mosse effettuate dai giocatori
+3.2) Passando il mouse su una mossa nell'elenco, si evidenzia sul tabellone
+
+4) Permetti ai giocatori di personalizzare i simboli X e O con dei caratteri a piacere
+
+5) Alla vittoria: evidenzia sul tabellone la combinazione vincente
+
+6) Cambio tema tramite un pulsante (o una drop down list)
+
+7) Passando il mouse su una cella, viene mostrato un tooltip con il nome della cella
+
+8) Usa degli effetti sonori per i seguenti stati {MOSSA, VITTORIA, PAREGGIO} (Audio() -> audio.play())
+
+Per ogni modifica va effettuato un commit.
+$ git add --all
+$ git commit -m "messaggio del commit"

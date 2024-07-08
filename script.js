@@ -71,4 +71,3 @@ resetButton.addEventListener('click', handleReset);
 
 statusDisplay.textContent = `Turno del giocatore ${currentPlayer}`;
 
-// ennesimo commento

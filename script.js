@@ -7,6 +7,7 @@ let gameState = ['', '', '', '', '', '', '', '', ''];
 let gameActive = true;
 
 //asd lol
+//Hello world
 
 const winningConditions = [
     [0, 1, 2],

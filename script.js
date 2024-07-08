@@ -8,6 +8,7 @@ let gameActive = true;
 
 //asd lol
 //Hello world
+//scherzavo sul fatto dell'ultimo commento
 
 const winningConditions = [
     [0, 1, 2],

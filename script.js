@@ -70,3 +70,5 @@ cells.forEach(cell => cell.addEventListener('click', handleCellClick));
 resetButton.addEventListener('click', handleReset);
 
 statusDisplay.textContent = `Turno del giocatore ${currentPlayer}`;
+
+// ennesimo commento

@@ -32,8 +32,8 @@ function handleCellClick(event) {
     gameState[clickedCellIndex] = currentPlayer;
     clickedCell.textContent = currentPlayer;
 
-    checkResult();
     currentPlayer = currentPlayer === 'X' ? 'O' : 'X';
+    checkResult();
 }
 
 function checkResult() {

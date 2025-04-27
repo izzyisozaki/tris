@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gioco del Tris</title>
     <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles2.css">
 </head>
 <body>
     <div class="container">
@@ -20,9 +21,20 @@
             <div class="cell" data-index="7"></div>
             <div class="cell" data-index="8"></div>
         </div>
+
+        <div id="symbolSelection">
+            <button id="chooseX">Gioca come X</button>
+            <button id="chooseO">Gioca come O</button>
+        </div>
         <button id="resetButton">Reset</button>
         <p id="status"></p>
+        <!-- rectangular switch -->
+        <label class="switch">
+            <input type="checkbox">
+            <span class="slider"></span>
+        </label>
     </div>
     <script src="script.js"></script>
+    <script src="script2.js"></script>
 </body>
 </html>
